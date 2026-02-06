@@ -36,4 +36,12 @@ java programming code
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/anuragsharma682/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/anuragsharma682/DSA/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/anuragsharma682/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
