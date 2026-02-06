@@ -19,6 +19,7 @@ java programming code
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anuragsharma682/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/anuragsharma682/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,4 +32,8 @@ java programming code
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anuragsharma682/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/anuragsharma682/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
