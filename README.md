@@ -17,6 +17,7 @@ java programming code
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/anuragsharma682/DSA/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -51,6 +52,7 @@ java programming code
 | ------- |
 | [0031-next-permutation](https://github.com/anuragsharma682/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragsharma682/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/anuragsharma682/DSA/tree/master/0037-sudoku-solver) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +65,12 @@ java programming code
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragsharma682/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anuragsharma682/DSA/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anuragsharma682/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
