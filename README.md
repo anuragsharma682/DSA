@@ -8,6 +8,7 @@ java programming code
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/anuragsharma682/DSA/tree/master/0038-count-and-say) |
 ## Dynamic Programming
 |  |
 | ------- |
