@@ -44,4 +44,12 @@ java programming code
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anuragsharma682/DSA/tree/master/0029-divide-two-integers) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/anuragsharma682/DSA/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/anuragsharma682/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
