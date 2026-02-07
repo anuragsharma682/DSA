@@ -7,10 +7,12 @@ java programming code
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,4 +54,8 @@ java programming code
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/anuragsharma682/DSA/tree/master/0031-next-permutation) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
