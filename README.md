@@ -50,6 +50,7 @@ java programming code
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/anuragsharma682/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuragsharma682/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@ java programming code
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0032-longest-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuragsharma682/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
