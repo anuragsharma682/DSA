@@ -20,6 +20,7 @@ java programming code
 | [0022-generate-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/anuragsharma682/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anuragsharma682/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/anuragsharma682/DSA/tree/master/0040-combination-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +57,7 @@ java programming code
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragsharma682/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/anuragsharma682/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anuragsharma682/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/anuragsharma682/DSA/tree/master/0040-combination-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
