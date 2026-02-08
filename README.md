@@ -10,11 +10,13 @@ java programming code
 | [0032-longest-valid-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/anuragsharma682/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/anuragsharma682/DSA/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/anuragsharma682/DSA/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/anuragsharma682/DSA/tree/master/0044-wildcard-matching) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,6 +45,7 @@ java programming code
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/anuragsharma682/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/anuragsharma682/DSA/tree/master/0044-wildcard-matching) |
 ## Math
 |  |
 | ------- |
@@ -86,4 +89,8 @@ java programming code
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/anuragsharma682/DSA/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/anuragsharma682/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
