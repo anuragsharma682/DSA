@@ -20,6 +20,7 @@ java programming code
 | [0032-longest-valid-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anuragsharma682/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anuragsharma682/DSA/tree/master/0045-jump-game-ii) |
+| [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,6 +57,7 @@ java programming code
 | ------- |
 | [0029-divide-two-integers](https://github.com/anuragsharma682/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/anuragsharma682/DSA/tree/master/0043-multiply-strings) |
+| [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,4 +109,16 @@ java programming code
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anuragsharma682/DSA/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
