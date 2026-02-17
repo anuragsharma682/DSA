@@ -117,6 +117,7 @@ java programming code
 | [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/anuragsharma682/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/anuragsharma682/DSA/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuragsharma682/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -128,8 +129,10 @@ java programming code
 | [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/anuragsharma682/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/anuragsharma682/DSA/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuragsharma682/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anuragsharma682/DSA/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuragsharma682/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
