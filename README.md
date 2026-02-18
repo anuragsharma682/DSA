@@ -16,6 +16,7 @@ java programming code
 | [0131-palindrome-partitioning](https://github.com/anuragsharma682/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anuragsharma682/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ java programming code
 | [0131-palindrome-partitioning](https://github.com/anuragsharma682/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anuragsharma682/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,6 +39,7 @@ java programming code
 | [0046-permutations](https://github.com/anuragsharma682/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/anuragsharma682/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/anuragsharma682/DSA/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +89,7 @@ java programming code
 | [0079-word-search](https://github.com/anuragsharma682/DSA/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +108,7 @@ java programming code
 | [0037-sudoku-solver](https://github.com/anuragsharma682/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anuragsharma682/DSA/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -158,8 +163,10 @@ java programming code
 |  |
 | ------- |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
