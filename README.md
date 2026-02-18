@@ -69,6 +69,7 @@ java programming code
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anuragsharma682/DSA/tree/master/0029-divide-two-integers) |
+| [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@ java programming code
 | [0045-jump-game-ii](https://github.com/anuragsharma682/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anuragsharma682/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/anuragsharma682/DSA/tree/master/0079-word-search) |
+| [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
