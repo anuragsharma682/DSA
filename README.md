@@ -46,6 +46,7 @@ java programming code
 | [0023-merge-k-sorted-lists](https://github.com/anuragsharma682/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anuragsharma682/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anuragsharma682/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0143-reorder-list](https://github.com/anuragsharma682/DSA/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +65,7 @@ java programming code
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/anuragsharma682/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/anuragsharma682/DSA/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/anuragsharma682/DSA/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -94,10 +96,12 @@ java programming code
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/anuragsharma682/DSA/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/anuragsharma682/DSA/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anuragsharma682/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/anuragsharma682/DSA/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
