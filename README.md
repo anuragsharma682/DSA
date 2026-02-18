@@ -15,6 +15,7 @@ java programming code
 | [0079-word-search](https://github.com/anuragsharma682/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/anuragsharma682/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anuragsharma682/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ java programming code
 | [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/anuragsharma682/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anuragsharma682/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +85,7 @@ java programming code
 | [0046-permutations](https://github.com/anuragsharma682/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/anuragsharma682/DSA/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +103,7 @@ java programming code
 | ------- |
 | [0037-sudoku-solver](https://github.com/anuragsharma682/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anuragsharma682/DSA/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -150,4 +154,12 @@ java programming code
 | [0100-same-tree](https://github.com/anuragsharma682/DSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuragsharma682/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anuragsharma682/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
