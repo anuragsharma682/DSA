@@ -17,6 +17,7 @@ java programming code
 | [0132-palindrome-partitioning-ii](https://github.com/anuragsharma682/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
+| [0696-count-binary-substrings](https://github.com/anuragsharma682/DSA/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@ java programming code
 | ------- |
 | [0031-next-permutation](https://github.com/anuragsharma682/DSA/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/anuragsharma682/DSA/tree/master/0143-reorder-list) |
+| [0696-count-binary-substrings](https://github.com/anuragsharma682/DSA/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
