@@ -18,6 +18,7 @@ java programming code
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 | [0696-count-binary-substrings](https://github.com/anuragsharma682/DSA/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/anuragsharma682/DSA/tree/master/0761-special-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ java programming code
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anuragsharma682/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anuragsharma682/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0761-special-binary-string](https://github.com/anuragsharma682/DSA/tree/master/0761-special-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -175,4 +177,8 @@ java programming code
 | ------- |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/anuragsharma682/DSA/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
