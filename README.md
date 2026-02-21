@@ -75,11 +75,13 @@ java programming code
 | [0029-divide-two-integers](https://github.com/anuragsharma682/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/anuragsharma682/DSA/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anuragsharma682/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anuragsharma682/DSA/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anuragsharma682/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Array
 |  |
 | ------- |
