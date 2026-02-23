@@ -19,6 +19,7 @@ java programming code
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 | [0696-count-binary-substrings](https://github.com/anuragsharma682/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/anuragsharma682/DSA/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuragsharma682/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@ java programming code
 | [0029-divide-two-integers](https://github.com/anuragsharma682/DSA/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anuragsharma682/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuragsharma682/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Array
 |  |
 | ------- |
@@ -119,6 +121,7 @@ java programming code
 | [0041-first-missing-positive](https://github.com/anuragsharma682/DSA/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuragsharma682/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Matrix
 |  |
 | ------- |
@@ -183,4 +186,12 @@ java programming code
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/anuragsharma682/DSA/tree/master/0761-special-binary-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuragsharma682/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuragsharma682/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
