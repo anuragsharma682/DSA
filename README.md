@@ -96,6 +96,7 @@ java programming code
 | [0041-first-missing-positive](https://github.com/anuragsharma682/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/anuragsharma682/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anuragsharma682/DSA/tree/master/0046-permutations) |
+| [0074-search-a-2d-matrix](https://github.com/anuragsharma682/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anuragsharma682/DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragsharma682/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
@@ -116,6 +117,7 @@ java programming code
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragsharma682/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/anuragsharma682/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +130,7 @@ java programming code
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anuragsharma682/DSA/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/anuragsharma682/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anuragsharma682/DSA/tree/master/0079-word-search) |
 ## Simulation
 |  |
