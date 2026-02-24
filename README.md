@@ -28,6 +28,7 @@ java programming code
 | [0044-wildcard-matching](https://github.com/anuragsharma682/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anuragsharma682/DSA/tree/master/0045-jump-game-ii) |
 | [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragsharma682/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/anuragsharma682/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anuragsharma682/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
@@ -96,6 +97,7 @@ java programming code
 | [0045-jump-game-ii](https://github.com/anuragsharma682/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anuragsharma682/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/anuragsharma682/DSA/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragsharma682/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
