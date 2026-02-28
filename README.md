@@ -79,6 +79,7 @@ java programming code
 | [0043-multiply-strings](https://github.com/anuragsharma682/DSA/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/anuragsharma682/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anuragsharma682/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ java programming code
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anuragsharma682/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anuragsharma682/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuragsharma682/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +141,7 @@ java programming code
 | ------- |
 | [0043-multiply-strings](https://github.com/anuragsharma682/DSA/tree/master/0043-multiply-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anuragsharma682/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
 |  |
 | ------- |
