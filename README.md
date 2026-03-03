@@ -21,6 +21,7 @@ java programming code
 | [0761-special-binary-string](https://github.com/anuragsharma682/DSA/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anuragsharma682/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuragsharma682/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/anuragsharma682/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ java programming code
 | [0025-reverse-nodes-in-k-group](https://github.com/anuragsharma682/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/anuragsharma682/DSA/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/anuragsharma682/DSA/tree/master/0143-reorder-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/anuragsharma682/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +144,7 @@ java programming code
 | ------- |
 | [0043-multiply-strings](https://github.com/anuragsharma682/DSA/tree/master/0043-multiply-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anuragsharma682/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/anuragsharma682/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
 |  |
