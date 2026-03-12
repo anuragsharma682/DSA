@@ -126,6 +126,7 @@ java programming code
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragsharma682/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anuragsharma682/DSA/tree/master/0074-search-a-2d-matrix) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anuragsharma682/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ java programming code
 | [0044-wildcard-matching](https://github.com/anuragsharma682/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anuragsharma682/DSA/tree/master/0045-jump-game-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anuragsharma682/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -211,4 +213,16 @@ java programming code
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuragsharma682/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anuragsharma682/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anuragsharma682/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anuragsharma682/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
