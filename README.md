@@ -110,6 +110,7 @@ java programming code
 | [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/anuragsharma682/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 ## Two Pointers
 |  |
 | ------- |
