@@ -114,6 +114,7 @@ java programming code
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/anuragsharma682/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anuragsharma682/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +160,7 @@ java programming code
 | [0044-wildcard-matching](https://github.com/anuragsharma682/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anuragsharma682/DSA/tree/master/0045-jump-game-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anuragsharma682/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anuragsharma682/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Depth-First Search
 |  |
@@ -211,6 +213,7 @@ java programming code
 | ------- |
 | [0761-special-binary-string](https://github.com/anuragsharma682/DSA/tree/master/0761-special-binary-string) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anuragsharma682/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Rolling Hash
 |  |
 | ------- |
