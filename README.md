@@ -87,6 +87,7 @@ java programming code
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anuragsharma682/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/anuragsharma682/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,6 +97,7 @@ java programming code
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anuragsharma682/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuragsharma682/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/anuragsharma682/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Array
 |  |
 | ------- |
