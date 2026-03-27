@@ -86,6 +86,7 @@ java programming code
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anuragsharma682/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anuragsharma682/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +114,7 @@ java programming code
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anuragsharma682/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/anuragsharma682/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anuragsharma682/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
@@ -147,6 +149,7 @@ java programming code
 | [0074-search-a-2d-matrix](https://github.com/anuragsharma682/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anuragsharma682/DSA/tree/master/0079-word-search) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anuragsharma682/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
 | ------- |
@@ -154,6 +157,7 @@ java programming code
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anuragsharma682/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anuragsharma682/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anuragsharma682/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
