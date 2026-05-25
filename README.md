@@ -38,6 +38,7 @@ java programming code
 | [0132-palindrome-partitioning-ii](https://github.com/anuragsharma682/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
+| [1340-jump-game-v](https://github.com/anuragsharma682/DSA/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/anuragsharma682/DSA/tree/master/1871-jump-game-vii) |
 ## Backtracking
 |  |
@@ -117,6 +118,7 @@ java programming code
 | [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
+| [1340-jump-game-v](https://github.com/anuragsharma682/DSA/tree/master/1340-jump-game-v) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anuragsharma682/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/anuragsharma682/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
@@ -220,6 +222,7 @@ java programming code
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/anuragsharma682/DSA/tree/master/0761-special-binary-string) |
+| [1340-jump-game-v](https://github.com/anuragsharma682/DSA/tree/master/1340-jump-game-v) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anuragsharma682/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Rolling Hash
