@@ -24,6 +24,7 @@ java programming code
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anuragsharma682/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anuragsharma682/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1871-jump-game-vii](https://github.com/anuragsharma682/DSA/tree/master/1871-jump-game-vii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ java programming code
 | [0132-palindrome-partitioning-ii](https://github.com/anuragsharma682/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
+| [1871-jump-game-vii](https://github.com/anuragsharma682/DSA/tree/master/1871-jump-game-vii) |
 ## Backtracking
 |  |
 | ------- |
@@ -243,5 +245,10 @@ java programming code
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/anuragsharma682/DSA/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/anuragsharma682/DSA/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
