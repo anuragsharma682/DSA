@@ -9,8 +9,8 @@ class Solution {
             if(sum==target){
                 arr.add(l+1);
                 arr.add(r+1);
-                res[0]=arr.get(0);
-                res[1]=arr.get(1);
+                res[0]=l+1;
+                res[1]=r+1;
                 return res;
             } else if(sum<target){
                 l++;
