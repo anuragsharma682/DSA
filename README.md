@@ -119,6 +119,7 @@ java programming code
 | [0137-single-number-ii](https://github.com/anuragsharma682/DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragsharma682/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1340-jump-game-v](https://github.com/anuragsharma682/DSA/tree/master/1340-jump-game-v) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anuragsharma682/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -129,6 +130,7 @@ java programming code
 | ------- |
 | [0031-next-permutation](https://github.com/anuragsharma682/DSA/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/anuragsharma682/DSA/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragsharma682/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0696-count-binary-substrings](https://github.com/anuragsharma682/DSA/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
@@ -140,6 +142,7 @@ java programming code
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragsharma682/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anuragsharma682/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragsharma682/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anuragsharma682/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Hash Table
 |  |
