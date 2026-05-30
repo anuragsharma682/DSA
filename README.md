@@ -126,6 +126,7 @@ java programming code
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anuragsharma682/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3093-longest-common-suffix-queries](https://github.com/anuragsharma682/DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/anuragsharma682/DSA/tree/master/3161-block-placement-queries) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/anuragsharma682/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anuragsharma682/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
@@ -146,6 +147,7 @@ java programming code
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragsharma682/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anuragsharma682/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragsharma682/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3161-block-placement-queries](https://github.com/anuragsharma682/DSA/tree/master/3161-block-placement-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anuragsharma682/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Hash Table
 |  |
@@ -264,4 +266,12 @@ java programming code
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/anuragsharma682/DSA/tree/master/1871-jump-game-vii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/anuragsharma682/DSA/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/anuragsharma682/DSA/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
