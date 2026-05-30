@@ -25,6 +25,7 @@ java programming code
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragsharma682/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anuragsharma682/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1871-jump-game-vii](https://github.com/anuragsharma682/DSA/tree/master/1871-jump-game-vii) |
+| [3093-longest-common-suffix-queries](https://github.com/anuragsharma682/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anuragsharma682/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anuragsharma682/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
@@ -124,6 +125,7 @@ java programming code
 | [1340-jump-game-v](https://github.com/anuragsharma682/DSA/tree/master/1340-jump-game-v) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuragsharma682/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anuragsharma682/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3093-longest-common-suffix-queries](https://github.com/anuragsharma682/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/anuragsharma682/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anuragsharma682/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
@@ -220,6 +222,7 @@ java programming code
 | ------- |
 | [0139-word-break](https://github.com/anuragsharma682/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anuragsharma682/DSA/tree/master/0140-word-break-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/anuragsharma682/DSA/tree/master/3093-longest-common-suffix-queries) |
 ## Memoization
 |  |
 | ------- |
