@@ -274,4 +274,8 @@ java programming code
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/anuragsharma682/DSA/tree/master/3161-block-placement-queries) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anuragsharma682/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
